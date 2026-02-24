@@ -1,14 +1,9 @@
 # Geospatial Data Scientist🌱
 
-## Education
-MSc, Geographic Data Science And Spatial Analytics, University Of Bristol
-BSc, Physical Geography, Royal Holloway University of London
-
-### Projects
-<ins>From Thresholds to Machine Learning: Comparative Glacier Mapping in the Tibetan Himalayas and Swiss Alps Using Index-Based, Clustering, and Random Forest Classification</ins>.
-
-This project aimed to understand different forms of Glacier delination and to understand which methods may be better in the future for other projects
-
+Hi There! My names Amelia and I'm a data analyst with a particular interest in environmental analysis. My key skills include:
+- Proficient in coding languages such as Python, R and SQL with experience in statistical analysis, spatial modelling, and data visualisation.
+- Experience using QGIS and ArcGIS Pro for spatial analysis, data management, and cartographic output, with exposure to web mapping concepts and interactive data visualisation.
+- Experience handling, cleaning, and analysing large spatial and non-spatial datasets.
 
 <!--
 **ameliakrex/ameliakrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
