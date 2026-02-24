@@ -5,6 +5,9 @@ Hi There! My names Amelia and I'm a data analyst with a particular interest in e
 - Experience using QGIS and ArcGIS Pro for spatial analysis, data management, and cartographic output, with exposure to web mapping concepts and interactive data visualisation.
 - Experience handling, cleaning, and analysing large spatial and non-spatial datasets.
 
+# 🤔Projects 
+Examples of my previous projects can be found <ins>here<ins/>
+
 <!--
 **ameliakrex/ameliakrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
