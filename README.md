@@ -1,4 +1,4 @@
-# Geospatial Data Scientist
+# Geospatial Data Scientist🌱
 
 ## Education
 MSc, Geographic Data Science And Spatial Analytics, University Of Bristol
