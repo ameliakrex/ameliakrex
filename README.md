@@ -6,7 +6,7 @@ Hi There! My names Amelia and I'm a data analyst with a particular interest in e
 - Experience handling, cleaning, and analysing large spatial and non-spatial datasets.
 
 # 🤔Projects 
-Examples of my previous projects can be found [here](https://github.com/ameliakrex/portfolio](https://github.com/ameliakrex/portfolio/blob/main/README.md)
+Examples of my previous projects can be found [here](https://github.com/ameliakrex/portfolio/blob/main/README.md)
 
 <!--
 **ameliakrex/ameliakrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
